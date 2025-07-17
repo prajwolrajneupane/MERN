@@ -1,0 +1,10 @@
+*{
+    margin:0
+}
+@import "tailwindcss";
+
+.hero-left p{
+    color: #171717;
+    font-size: 50px;
+    font-weight: 700;
+}
